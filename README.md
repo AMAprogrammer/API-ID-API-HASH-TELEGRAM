@@ -1,0 +1,1 @@
+# A simple telegram bot for get API_ID & API_HASH
